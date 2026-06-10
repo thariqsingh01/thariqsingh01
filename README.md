@@ -1,5 +1,5 @@
 # 💫 About Me:
--I am a graduate with a honours degree in Computer Science.<br>-Currently a full stack developer however I am more proficient with backend coding.<br>-Proficient in python, C#, MVC, java, php,SQL,HTML,CSS, Javascript<br>-Have experience working with Typescript, React, Flask, C++
+-I am a graduate with a honours degree in Computer Science.<br>-Currently a full stack developer with experience working with databases, debugging and testing and CI/CD pipelines.<br>-Proficient in python, C#, MVC, java, php,SQL,HTML,CSS, Javascript<br>-Have experience working with Typescript, React, Flask, C++
 
 
 ## 🌐 Socials:
