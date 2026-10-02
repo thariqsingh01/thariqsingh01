@@ -7,11 +7,6 @@
 - 🧠 Strong interest in software engineering, system design, cloud technologies, automation, artificial intelligence, and emerging technologies.
 - 🔧 Additional experience with Python, Java, PHP, C++, Flask, React, TypeScript, and various data science and machine learning technologies.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Thariq%20Singh](https://www.linkedin.com/in/thariq-singh-31590a245))
-
-
 # 💻 Tech Stack:
 
 ### Languages
